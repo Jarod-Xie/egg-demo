@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "egg": "^2.14.1"
+    "egg": "^2.14.1",
+    "egg-view-nunjucks": "^2.2.0"
   },
   "devDependencies": {
     "egg-bin": "^4.9.0"
